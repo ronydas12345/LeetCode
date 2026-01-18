@@ -43,3 +43,20 @@ This will be added to over time
     * Trie
         * C++
         * Python
+
+- __20: Valid Parenthesis ([link](https://leetcode.com/problems/valid-parentheses/description/))__
+    * C++
+    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/20_Valid_Parenthesis.py)
+
+- __22: Generate Parenthesis ([link](https://leetcode.com/problems/generate-parentheses/description/))__
+    * Recursion
+        * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/22_Generate_Parenthesis_Recursion.cpp)
+        * Python
+    * Dynamic Programming
+        * C++
+        * Python
+
+- __30: Substring with Concatenation of All Words ([link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/))__
+    * C++
+    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/30_Substring_With_Concatenation_Of_All_Words.py)
+
