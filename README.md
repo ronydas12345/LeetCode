@@ -36,3 +36,10 @@ This will be added to over time
         * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/11_Container_With_Most_Water.cpp)
         * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/11_Container_With_Most_Water.py)
 
+- __14: Longest Common Prefix ([link](https://leetcode.com/problems/longest-common-prefix/description/))__
+    * Array
+        * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/14_Longest_Common_Prefix_Array.cpp)
+        * [Python]((https://github.com/ronydas12345/LeetCode/blob/main/Python/14_Longest_Common_Prefix_Array.py))
+    * Trie
+        * C++
+        * Python
