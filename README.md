@@ -2,6 +2,9 @@
 My solutions for LeetCode problems in C++ and Python
 
 This will be added to over time
+Contact me if something is missing or you would like me to add something
+
+___
 
 - __1: Two Sum ([link](https://leetcode.com/problems/two-sum/description/))__
     * Hash Table
@@ -56,7 +59,23 @@ This will be added to over time
         * C++
         * Python
 
-- __30: Substring with Concatenation of All Words ([link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/))__
+- __33: Search in Rotated Sorted Array ([link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/))__
+    * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/33_Search_In_Rotated_Sorted_Array.cpp)
+    * Python
+
+- __36: Valid Sudoku ([link](https://leetcode.com/problems/valid-sudoku/description/))__
+    * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/36_Valid_Sudoku.cpp)
+    * Python
+
+- __44: Wildcard Matching ([link](https://leetcode.com/problems/wildcard-matching/description/))__
     * C++
-    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/30_Substring_With_Concatenation_Of_All_Words.py)
+    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/44_Wildcard_Matching.py)
+
+- __45: Jump Game II ([link](https://leetcode.com/problems/jump-game-ii/description/))__
+    * Greedy
+        * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/45_Jump_Game_II_Greedy.cpp)
+        * Python
+    * Dynamic Programming
+        * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/45_Jump_Game_II_DP.cpp)
+        * Python
 
