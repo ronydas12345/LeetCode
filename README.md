@@ -16,3 +16,15 @@ My solutions for LeetCode problems
     * Recursion
         * C++
         * Python
+
+5. Longest Palindromic String ([link](https://leetcode.com/problems/longest-palindromic-substring/description/))
+    * Two Pointers
+        * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/5_Longest_Palindromic_String_Two_Pointers.cpp)
+        * Python
+    * Dynamic Programming
+        * C++
+        * Python
+
+9. Palindrome Number ([link](https://leetcode.com/problems/palindrome-number/description/))
+    * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/9_Palindrome_Number.cpp)
+    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/9_Palindrome_Number.py)
