@@ -71,11 +71,27 @@ ___
     * C++
     * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/44_Wildcard_Matching.py)
 
-- __45: Jump Game II ([link](https://leetcode.com/problems/jump-game-ii/description/))__
+- __45: Jump Game II ([link](https://leetcode.com/problems/jump-game_ii/description/))__
     * Greedy
         * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/45_Jump_Game_II_Greedy.cpp)
         * Python
     * Dynamic Programming
         * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/45_Jump_Game_II_DP.cpp)
         * Python
+
+- __49: Group Anagrams ([link](https://leetcode.com/problems/group-anagrams/description/))__
+    * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/49_Group_Anagrams.cpp)
+    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/49_Group_Anagrams.py)
+
+- __55: Jump Game ([link](https://leetcode.com/problems/jump-game/description/))__
+    * Greedy
+        * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/45_Jump_Game_Greedy.cpp)
+        * Python
+    * Dynamic Programming
+        * C++
+        * Python
+
+- __62: Unique Paths ([link](https://leetcode.com/problems/unique-paths/description/))__
+    * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/62_Unique_Paths.cpp)
+    * Python
 
