@@ -1,5 +1,5 @@
 # LeetCode
-My solutions for LeetCode problems in C++ and Python
+My solutions for [LeetCode](https://leetcode.com) problems in C++ and Python
 
 This will be added to over time
 Contact me if something is missing or you would like me to add something
@@ -95,3 +95,6 @@ ___
     * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/62_Unique_Paths.cpp)
     * Python
 
+- __70: Clibing Stairs ([link](https://leetcode.com/problems/climbing-stairs/description/))__
+    * C++
+    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/70_Climbing_Stairs.py)
