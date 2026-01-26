@@ -48,6 +48,7 @@ ___
 | [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ronydas12345/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronydas12345/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@ ___
 | [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 | [1250-longest-common-subsequence](https://github.com/ronydas12345/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronydas12345/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,4 +201,8 @@ ___
 |  |
 | ------- |
 | [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronydas12345/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
