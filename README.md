@@ -27,16 +27,19 @@ ___
 | [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ronydas12345/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -173,4 +176,20 @@ ___
 |  |
 | ------- |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
