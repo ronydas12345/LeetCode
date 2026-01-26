@@ -31,6 +31,7 @@ ___
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@ ___
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
@@ -74,4 +76,8 @@ ___
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
