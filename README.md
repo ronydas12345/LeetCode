@@ -24,6 +24,7 @@ ___
 | [0330-patching-array](https://github.com/ronydas12345/LeetCode/tree/master/0330-patching-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ ___
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/ronydas12345/LeetCode/tree/master/0392-is-subsequence) |
+| [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -74,6 +76,7 @@ ___
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronydas12345/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ronydas12345/LeetCode/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/ronydas12345/LeetCode/tree/master/0330-patching-array) |
+| [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
@@ -82,6 +85,7 @@ ___
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ronydas12345/LeetCode/tree/master/0392-is-subsequence) |
+| [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 ## Trie
 |  |
 | ------- |
