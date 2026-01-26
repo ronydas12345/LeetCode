@@ -106,3 +106,15 @@ ___
 - __94: Binary Tree Inorder Traversal ([link](https://leetcode.com/problems/binary-tree-inorder-traversal/description/))__
     * C++
     * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/94_Binary_Tree_Inorder_Traversal.py)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ronydas12345/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ronydas12345/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
