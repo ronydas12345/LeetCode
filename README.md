@@ -100,21 +100,25 @@ ___
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
