@@ -14,6 +14,7 @@ ___
 | [0001-two-sum](https://github.com/ronydas12345/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ ___
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
