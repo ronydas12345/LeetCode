@@ -2,7 +2,7 @@
 My solutions for [LeetCode](https://leetcode.com) problems in C++ and Python
 
 This will be added to over time.\
-Solutions are added automatically with (LeetHub 2.0)[https://github.com/maitreya2954/LeetHub-2.0-Firefox].\
+Solutions are added automatically with [LeetHub 2.0](https://github.com/maitreya2954/LeetHub-2.0-Firefox).\
 Contact me if something is missing or you would like me to add something.
 
 ___
