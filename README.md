@@ -25,6 +25,7 @@ ___
 | [0747-min-cost-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ ___
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ronydas12345/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +79,7 @@ ___
 | [0134-gas-station](https://github.com/ronydas12345/LeetCode/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/ronydas12345/LeetCode/tree/master/0330-patching-array) |
 | [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Two Pointers
 |  |
@@ -103,6 +106,7 @@ ___
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Memoization
 |  |
 | ------- |
