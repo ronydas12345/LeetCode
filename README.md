@@ -15,12 +15,14 @@ ___
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ronydas12345/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +41,7 @@ ___
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -67,4 +70,8 @@ ___
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
