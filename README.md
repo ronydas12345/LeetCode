@@ -95,6 +95,14 @@ ___
     * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/62_Unique_Paths.cpp)
     * Python
 
-- __70: Clibing Stairs ([link](https://leetcode.com/problems/climbing-stairs/description/))__
+- __70: Climbing Stairs ([link](https://leetcode.com/problems/climbing-stairs/description/))__
     * C++
     * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/70_Climbing_Stairs.py)
+
+- __81: Search in Rotated Sorted Array II ([link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/))__
+    * [C++](https://github.com/ronydas12345/LeetCode/blob/main/Cpp/81_Search_In_Rotated_Sorted_Array_II.cpp)
+    * Python
+
+- __94: Binary Tree Inorder Traversal ([link](https://leetcode.com/problems/binary-tree-inorder-traversal/description/))__
+    * C++
+    * [Python](https://github.com/ronydas12345/LeetCode/blob/main/Python/94_Binary_Tree_Inorder_Traversal.py)
