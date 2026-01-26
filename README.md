@@ -28,6 +28,7 @@ ___
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ ___
 | [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +114,7 @@ ___
 | ------- |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Memoization
 |  |
 | ------- |
@@ -192,4 +195,8 @@ ___
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Enumeration
+|  |
+| ------- |
+| [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
