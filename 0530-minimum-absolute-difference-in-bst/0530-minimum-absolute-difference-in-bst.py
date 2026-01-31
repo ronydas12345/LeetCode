@@ -16,22 +16,27 @@
 # Inorder DFS Recursive
 class Solution:
     def getMinimumDifference(self, root):
-        self.prev = None
-        self.res = float("inf")
+        global prev
+        global res
+        prev = None
+        res = float("inf")
 
         def inorder(node):
+            global prev
+            global res
+
             if not node:
                 return
             inorder(node.left)
 
-            if self.prev is not None:
-                self.res = min(self.res, node.val - self.prev)
-            self.prev = node.val
+            if prev is not None:
+                res = min(res, node.val - prev)
+            prev = node.val
 
             inorder(node.right)
 
         inorder(root)
-        return self.res
+        return res
 
 # # Inorder Stack
 # class Solution:
