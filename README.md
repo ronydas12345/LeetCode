@@ -205,4 +205,8 @@ ___
 |  |
 | ------- |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronydas12345/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/ronydas12345/LeetCode/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
