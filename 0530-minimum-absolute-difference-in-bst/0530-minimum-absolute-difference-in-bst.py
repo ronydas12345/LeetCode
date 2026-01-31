@@ -13,25 +13,25 @@
 
 #         return recursive(root, float("inf"))
 
-# # Inorder DFS Recursive
-# class Solution:
-#     def getMinimumDifference(self, root):
-#         self.prev = None
-#         self.res = float("inf")
+# Inorder DFS Recursive
+class Solution:
+    def getMinimumDifference(self, root):
+        self.prev = None
+        self.res = float("inf")
 
-#         def inorder(node):
-#             if not node:
-#                 return
-#             inorder(node.left)
+        def inorder(node):
+            if not node:
+                return
+            inorder(node.left)
 
-#             if self.prev is not None:
-#                 self.res = min(self.res, node.val - self.prev)
-#             self.prev = node.val
+            if self.prev is not None:
+                self.res = min(self.res, node.val - self.prev)
+            self.prev = node.val
 
-#             inorder(node.right)
+            inorder(node.right)
 
-#         inorder(root)
-#         return self.res
+        inorder(root)
+        return self.res
 
 # # Inorder Stack
 # class Solution:
@@ -56,32 +56,32 @@
 #         return res
 
 # DFS Space Optimized
-class Solution:
-    def getMinimumDifference(self, root):
-        cur = root
-        prev_val = None
-        ans = float("inf")
+# class Solution:
+#     def getMinimumDifference(self, root):
+#         cur = root
+#         prev_val = None
+#         ans = float("inf")
 
-        while cur:
-            if cur.left is None:
-                if prev_val is not None:
-                    ans = min(ans, cur.val - prev_val)
-                prev_val = cur.val
-                cur = cur.right
-            else:
-                # find predecessor
-                pre = cur.left
-                while pre.right and pre.right is not cur:
-                    pre = pre.right
+#         while cur:
+#             if cur.left is None:
+#                 if prev_val is not None:
+#                     ans = min(ans, cur.val - prev_val)
+#                 prev_val = cur.val
+#                 cur = cur.right
+#             else:
+#                 # find predecessor
+#                 pre = cur.left
+#                 while pre.right and pre.right is not cur:
+#                     pre = pre.right
 
-                if pre.right is None:
-                    pre.right = cur
-                    cur = cur.left
-                else:
-                    pre.right = None
-                    if prev_val is not None:
-                        ans = min(ans, cur.val - prev_val)
-                    prev_val = cur.val
-                    cur = cur.right
+#                 if pre.right is None:
+#                     pre.right = cur
+#                     cur = cur.left
+#                 else:
+#                     pre.right = None
+#                     if prev_val is not None:
+#                         ans = min(ans, cur.val - prev_val)
+#                     prev_val = cur.val
+#                     cur = cur.right
 
-        return ans
+#         return ans
