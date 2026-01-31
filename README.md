@@ -133,6 +133,7 @@ ___
 | [0110-balanced-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -144,6 +145,7 @@ ___
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
@@ -153,12 +155,14 @@ ___
 | [0110-balanced-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Union-Find
 |  |
@@ -210,4 +214,8 @@ ___
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/ronydas12345/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/ronydas12345/LeetCode/tree/master/0585-investments-in-2016) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->

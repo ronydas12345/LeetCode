@@ -1,0 +1,57 @@
+# # Recursive
+# class Solution:
+#     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
+#         if not root: return 0
+
+#         #res = float("inf")
+#         def recursive(root, curr):
+#             if not root: return curr
+#             if root.left: curr = min(abs(root.val - root.left.val), recursive(root.left, curr))
+#             if root.right: curr = min(abs(root.val - root.right.val), recursive(root.right, curr))
+
+#             return curr
+
+#         return recursive(root, float("inf"))
+
+# Inorder DFS Recursive
+class Solution:
+    def getMinimumDifference(self, root):
+        self.prev = None
+        self.res = float("inf")
+
+        def inorder(node):
+            if not node:
+                return
+            inorder(node.left)
+
+            if self.prev is not None:
+                self.res = min(self.res, node.val - self.prev)
+            self.prev = node.val
+
+            inorder(node.right)
+
+        inorder(root)
+        return self.res
+
+# # Inorder Stack
+# class Solution:
+#     def getMinimumDifference(self, root):
+#         s = []
+#         cur = root
+#         prev = None
+#         res = float("inf")
+
+#         while cur or s:
+#             while cur:
+#                 s.append(cur)
+#                 cur = cur.left
+
+#             cur = s.pop()
+#             if prev is not None:
+#                 res = min(res, cur.val - prev)
+#             prev = cur.val
+
+#             cur = cur.right
+
+#         return res
+
