@@ -16,6 +16,7 @@ ___
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ronydas12345/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronydas12345/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ronydas12345/LeetCode/tree/master/0134-gas-station) |
@@ -130,6 +131,7 @@ ___
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -152,6 +154,7 @@ ___
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -180,6 +183,7 @@ ___
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
 ## Graph Theory
 |  |
@@ -217,5 +221,6 @@ ___
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
