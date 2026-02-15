@@ -16,6 +16,7 @@ class Solution:
         max_i = 2 ** height
 
         # check leaf @ bottom exists [1...2^h]
+        # O(logn)
         def exists(leaf):
             curr = root
             l, r = 1, max_i
@@ -29,8 +30,8 @@ class Solution:
                     r = m
             return curr != None
         
-        # bin search # leaver at bottom
-
+        # bin search for # leaves at bottom
+        # O(logn * logn) -> calls exists for every iter in bin search
         l, r = 1, max_i
         while l <= r:
             m = (l + r) // 2
