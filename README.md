@@ -143,6 +143,7 @@ ___
 | [0404-sum-of-left-leaves](https://github.com/ronydas12345/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -159,6 +160,7 @@ ___
 | [0463-island-perimeter](https://github.com/ronydas12345/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
@@ -174,6 +176,7 @@ ___
 | [0404-sum-of-left-leaves](https://github.com/ronydas12345/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Breadth-First Search
 |  |
