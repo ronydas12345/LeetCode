@@ -1,4 +1,4 @@
-# # Recursive
+# Initial Recursive -doesnt work
 # class Solution:
 #     def getMinimumDifference(self, root: Optional[TreeNode]) -> int:
 #         if not root: return 0
@@ -18,6 +18,7 @@ class Solution:
     def getMinimumDifference(self, root):
         global prev
         global res
+
         prev = None
         res = float("inf")
 
