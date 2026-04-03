@@ -150,6 +150,7 @@ ___
 | [0543-diameter-of-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ronydas12345/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ronydas12345/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -170,6 +171,7 @@ ___
 | [0543-diameter-of-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ronydas12345/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ronydas12345/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/ronydas12345/LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -190,6 +192,7 @@ ___
 | [0543-diameter-of-binary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ronydas12345/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ronydas12345/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/ronydas12345/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -198,6 +201,7 @@ ___
 | [0404-sum-of-left-leaves](https://github.com/ronydas12345/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ronydas12345/LeetCode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ronydas12345/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0617-merge-two-binary-trees](https://github.com/ronydas12345/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/ronydas12345/LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
