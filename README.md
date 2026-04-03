@@ -133,6 +133,7 @@ ___
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@ ___
 | [0572-subtree-of-another-tree](https://github.com/ronydas12345/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
@@ -170,6 +172,7 @@ ___
 | [0572-subtree-of-another-tree](https://github.com/ronydas12345/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ronydas12345/LeetCode/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/ronydas12345/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ronydas12345/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
