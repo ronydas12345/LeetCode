@@ -23,6 +23,7 @@ ___
 | [0134-gas-station](https://github.com/ronydas12345/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/ronydas12345/LeetCode/tree/master/0330-patching-array) |
 | [0463-island-perimeter](https://github.com/ronydas12345/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/ronydas12345/LeetCode/tree/master/0733-flood-fill) |
@@ -39,6 +40,7 @@ ___
 | [0001-two-sum](https://github.com/ronydas12345/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ronydas12345/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -51,6 +53,7 @@ ___
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ronydas12345/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronydas12345/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -119,10 +122,12 @@ ___
 | [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ronydas12345/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Memoization
@@ -283,6 +288,7 @@ ___
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ronydas12345/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
