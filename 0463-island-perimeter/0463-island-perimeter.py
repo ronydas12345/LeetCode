@@ -1,76 +1,34 @@
 class Solution:
-    def islandPerimeter(self, grid):
-        if not grid or not grid[0]:
-            return 0
+    def islandPerimeter(self, grid: List[List[int]]) -> int:
+        """
+        start, flag = (-1, -1), False
 
-        N = len(grid)
-        M = len(grid[0])
-
-        # scan for first land cell
-        start = None
-        for r in range(N):
-            for c in range(M):
+        for r in range(len(grid)):
+            for c in range(len(grid[r])):
                 if grid[r][c] == 1:
-                    start = (r, c)
+                    start, flag = (r, c), True
                     break
-            if start:
-                break
+            if flag: break
 
-        if not start:
-            return 0
+        q, visited, res = [start], [], 0
 
-        # pop in O(1)
-        q = [start]
-        front = 0
+        while q:"""
 
-        # start is visited
-        sr, sc = start
-        grid[sr][sc] = float("inf")
+        print(self.in_bounds(grid, 0, 5))
+
+        dirs = ((-1, 0), (0, -1), (1, 0), (0, 1))
 
         res = 0
-
-        while front < len(q):
-            r, c = q[front]
-            front += 1
-
-            # down
-            nr, nc = r + 1, c
-            if nr >= N:
-                res += 1
-            elif grid[nr][nc] == 0:
-                res += 1
-            elif grid[nr][nc] == 1:
-                grid[nr][nc] = float("inf")
-                q.append((nr, nc))
-
-            # up
-            nr, nc = r - 1, c
-            if nr < 0:
-                res += 1
-            elif grid[nr][nc] == 0:
-                res += 1
-            elif grid[nr][nc] == 1:
-                grid[nr][nc] = float("inf")
-                q.append((nr, nc))
-
-            # right
-            nr, nc = r, c + 1
-            if nc >= M:
-                res += 1
-            elif grid[nr][nc] == 0:
-                res += 1
-            elif grid[nr][nc] == 1:
-                grid[nr][nc] = float("inf")
-                q.append((nr, nc))
-
-            # left
-            nr, nc = r, c - 1
-            if nc < 0:
-                res += 1
-            elif grid[nr][nc] == 0:
-                res += 1
-            elif grid[nr][nc] == 1:
-                grid[nr][nc] = float("inf")
-                q.append((nr, nc))
-
+        for r in range(len(grid)):
+            for c in range(len(grid[0])):
+                if grid[r][c] == 1:
+                    if self.in_bounds(grid, r - 1, c) or grid[r - 1][c] == 0: res += 1
+                    if self.in_bounds(grid, r, c - 1) or grid[r][c - 1] == 0: res += 1
+                    if self.in_bounds(grid, r + 1, c) or grid[r + 1][c] == 0: res += 1
+                    if self.in_bounds(grid, r, c + 1) or grid[r][c + 1] == 0: res += 1
+        
         return res
+    
+    def in_bounds(self, grid, r, c): 
+        return (r < 0 or r >= len(grid) or c < 0 or c >= len(grid[0]))
+    
