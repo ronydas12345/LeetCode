@@ -15,6 +15,7 @@ ___
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/ronydas12345/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ronydas12345/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ronydas12345/LeetCode/tree/master/0054-spiral-matrix) |
@@ -54,6 +55,7 @@ ___
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ronydas12345/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ronydas12345/LeetCode/tree/master/1013-fibonacci-number) |
@@ -234,6 +236,7 @@ ___
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ronydas12345/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ronydas12345/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ronydas12345/LeetCode/tree/master/0463-island-perimeter) |
