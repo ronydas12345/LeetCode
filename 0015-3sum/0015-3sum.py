@@ -20,6 +20,6 @@ class Solution:
 
 
                     while b > a and nums[a - 1] == nums[a]: a += 1
-                    #while nums[b + 1] == nums[b] and b > a: b -= 1
+                    while b > a and nums[b + 1] == nums[b]: b -= 1
         
         return res
