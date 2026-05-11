@@ -27,6 +27,7 @@ ___
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronydas12345/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ronydas12345/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/ronydas12345/LeetCode/tree/master/0330-patching-array) |
@@ -45,6 +46,7 @@ ___
 | [0001-two-sum](https://github.com/ronydas12345/LeetCode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ronydas12345/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -138,6 +140,7 @@ ___
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ronydas12345/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ronydas12345/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
@@ -256,6 +259,7 @@ ___
 | ------- |
 | [0053-maximum-subarray](https://github.com/ronydas12345/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ronydas12345/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
 ## Graph Theory
 |  |
@@ -311,4 +315,8 @@ ___
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ronydas12345/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
