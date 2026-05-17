@@ -30,6 +30,7 @@ ___
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/ronydas12345/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/ronydas12345/LeetCode/tree/master/0330-patching-array) |
 | [0463-island-perimeter](https://github.com/ronydas12345/LeetCode/tree/master/0463-island-perimeter) |
@@ -293,6 +294,7 @@ ___
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ronydas12345/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ronydas12345/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Database
 |  |
