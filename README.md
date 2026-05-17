@@ -16,6 +16,7 @@ ___
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ronydas12345/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ronydas12345/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ronydas12345/LeetCode/tree/master/0053-maximum-subarray) |
@@ -87,6 +88,7 @@ ___
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ronydas12345/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ronydas12345/LeetCode/tree/master/0118-pascals-triangle) |
@@ -113,6 +115,7 @@ ___
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronydas12345/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ronydas12345/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ronydas12345/LeetCode/tree/master/0392-is-subsequence) |
@@ -152,6 +155,7 @@ ___
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -319,4 +323,8 @@ ___
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
