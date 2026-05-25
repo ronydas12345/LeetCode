@@ -51,6 +51,7 @@ ___
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ronydas12345/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ronydas12345/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -83,6 +84,7 @@ ___
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/ronydas12345/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/ronydas12345/LeetCode/tree/master/0392-is-subsequence) |
 | [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
@@ -149,6 +151,7 @@ ___
 | [0056-merge-intervals](https://github.com/ronydas12345/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ronydas12345/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ronydas12345/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [4112-maximize-expression-of-three-elements](https://github.com/ronydas12345/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
