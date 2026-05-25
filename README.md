@@ -27,6 +27,7 @@ ___
 | [0118-pascals-triangle](https://github.com/ronydas12345/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronydas12345/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ronydas12345/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ronydas12345/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ronydas12345/LeetCode/tree/master/0200-number-of-islands) |
@@ -311,6 +312,7 @@ ___
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ronydas12345/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ronydas12345/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 ## String Matching
