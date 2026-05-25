@@ -13,7 +13,9 @@ class Solution:
 
         print(list(zip(s, s[1:])))
 
-        for a, b in zip(s, s[1:]):
+        for i in range(len(s) - 1):
+            a = s[i]
+            b = s[i + 1]
             if vals[a] < vals[b]: 
                 res -= vals[a]
             else: 
