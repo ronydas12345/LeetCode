@@ -11,7 +11,7 @@ class Solution:
             "M": 1000
         }
 
-        print(list(zip(s, s[1:])))
+        #print(list(zip(s, s[1:])))
 
         for i in range(len(s) - 1):
             a = s[i]
