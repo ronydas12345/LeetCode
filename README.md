@@ -83,6 +83,7 @@ ___
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ronydas12345/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ronydas12345/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronydas12345/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ronydas12345/LeetCode/tree/master/0125-valid-palindrome) |
@@ -126,6 +127,7 @@ ___
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronydas12345/LeetCode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronydas12345/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ronydas12345/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ronydas12345/LeetCode/tree/master/0125-valid-palindrome) |
@@ -330,6 +332,7 @@ ___
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronydas12345/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ronydas12345/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
