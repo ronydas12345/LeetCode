@@ -16,16 +16,11 @@ class Solution:
             
             res.append(w)
             i = j
-    
-        a, b = 0, len(res) - 1
-        while a < b:
-            res[a], res[b] = res[b], res[a]
-            a, b = a + 1, b - 1
 
-        fin = ""
-        for k in range(len(res)):
+        fin, M = "", len(res)
+        
+        for k in range(M - 1, -1, -1):
             fin += res[k]
-            if k < len(res) - 1:
-                fin += " "
+            if k > 0: fin += " "
         
         return fin
