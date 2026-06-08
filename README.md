@@ -60,6 +60,7 @@ ___
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ronydas12345/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ronydas12345/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -131,6 +132,7 @@ ___
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronydas12345/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ronydas12345/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronydas12345/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ronydas12345/LeetCode/tree/master/0075-sort-colors) |
