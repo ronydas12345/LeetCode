@@ -6,14 +6,9 @@
 import math
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        l, a = 0, head
-        while a.next is not None:
-            a = a.next
-            l += 1
-
-        a, at = head, 0
-        while at < math.ceil(l / 2):
-            at += 1
-            a = a.next
+        mid, end = head, head
+        while end is not None and end.next is not None:
+            mid = mid.next
+            end = end.next.next
         
-        return a
+        return mid
