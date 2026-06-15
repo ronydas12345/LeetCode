@@ -62,6 +62,7 @@ ___
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ronydas12345/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/ronydas12345/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ronydas12345/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/ronydas12345/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -81,6 +82,7 @@ ___
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/ronydas12345/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/ronydas12345/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
