@@ -9,13 +9,12 @@ class Solution:
         if head is None: return False
         if head.next is None: return False
 
-        d, i = dict(), head
+        a, b = head, head
 
-        while i:
-            if i in d:
-                return True
-            
-            d[i] = True
-            i = i.next
+        while b and b.next:
+            a = a.next
+            b = b.next.next
+
+            if a == b: return True
         
         return False
