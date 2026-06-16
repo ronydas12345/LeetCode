@@ -52,6 +52,7 @@ ___
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronydas12345/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ronydas12345/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ronydas12345/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ronydas12345/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ronydas12345/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ ___
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ronydas12345/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ronydas12345/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ronydas12345/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ronydas12345/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ronydas12345/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/ronydas12345/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -142,6 +144,7 @@ ___
 | [0075-sort-colors](https://github.com/ronydas12345/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ronydas12345/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ronydas12345/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ronydas12345/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ronydas12345/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ronydas12345/LeetCode/tree/master/0392-is-subsequence) |
