@@ -38,6 +38,7 @@ ___
 | [0733-flood-fill](https://github.com/ronydas12345/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0792-binary-search](https://github.com/ronydas12345/LeetCode/tree/master/0792-binary-search) |
 | [0979-di-string-match](https://github.com/ronydas12345/LeetCode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ronydas12345/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -167,6 +168,7 @@ ___
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ronydas12345/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/ronydas12345/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
