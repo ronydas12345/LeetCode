@@ -36,6 +36,7 @@ ___
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/ronydas12345/LeetCode/tree/master/0330-patching-array) |
 | [0463-island-perimeter](https://github.com/ronydas12345/LeetCode/tree/master/0463-island-perimeter) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/ronydas12345/LeetCode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/ronydas12345/LeetCode/tree/master/0772-construct-quad-tree) |
@@ -170,6 +171,7 @@ ___
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronydas12345/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ronydas12345/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ronydas12345/LeetCode/tree/master/0792-binary-search) |
 ## Sorting
 |  |
