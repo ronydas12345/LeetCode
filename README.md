@@ -379,4 +379,16 @@ ___
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ronydas12345/LeetCode/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ronydas12345/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ronydas12345/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ronydas12345/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
