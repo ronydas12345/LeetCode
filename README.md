@@ -200,6 +200,7 @@ ___
 | [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/ronydas12345/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ronydas12345/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
@@ -382,10 +383,12 @@ ___
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ronydas12345/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/ronydas12345/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ronydas12345/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/ronydas12345/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
