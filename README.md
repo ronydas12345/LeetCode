@@ -17,6 +17,7 @@ ___
 | [0015-3sum](https://github.com/ronydas12345/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ronydas12345/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ronydas12345/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ronydas12345/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ronydas12345/LeetCode/tree/master/0053-maximum-subarray) |
@@ -120,6 +121,7 @@ ___
 | [0005-longest-palindromic-substring](https://github.com/ronydas12345/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/ronydas12345/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ronydas12345/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ronydas12345/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ronydas12345/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ronydas12345/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
@@ -134,6 +136,7 @@ ___
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ronydas12345/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ronydas12345/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ronydas12345/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ronydas12345/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ronydas12345/LeetCode/tree/master/0134-gas-station) |
