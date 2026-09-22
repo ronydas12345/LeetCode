@@ -82,6 +82,7 @@ ___
 | [0048-rotate-image](https://github.com/ronydas12345/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ronydas12345/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ronydas12345/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/ronydas12345/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/ronydas12345/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ronydas12345/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -91,6 +92,7 @@ ___
 | ------- |
 | [0002-add-two-numbers](https://github.com/ronydas12345/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ronydas12345/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/ronydas12345/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ronydas12345/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -367,6 +369,7 @@ ___
 | ------- |
 | [0136-single-number](https://github.com/ronydas12345/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ronydas12345/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ronydas12345/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ronydas12345/LeetCode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
