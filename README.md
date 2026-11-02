@@ -22,6 +22,7 @@ ___
 | [0046-permutations](https://github.com/ronydas12345/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ronydas12345/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ronydas12345/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ronydas12345/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ronydas12345/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ronydas12345/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ronydas12345/LeetCode/tree/master/0055-jump-game) |
@@ -326,6 +327,7 @@ ___
 | ------- |
 | [0022-generate-parentheses](https://github.com/ronydas12345/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/ronydas12345/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ronydas12345/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ronydas12345/LeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/ronydas12345/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
@@ -423,4 +425,8 @@ ___
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ronydas12345/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ronydas12345/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
