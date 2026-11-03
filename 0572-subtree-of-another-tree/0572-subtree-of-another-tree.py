@@ -5,12 +5,14 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def equal(self, r, s):
-            if r is None or s is None: return r is None and s is None
-            return r.val == s.val and self.equal(r.right, s.right) and self.equal(r.left, s.left)
-
-    def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if not subRoot: return True
+    def isSubtree(self, root: TreeNode | None, subRoot: TreeNode | None) -> bool:
         if not root: return False
-        if self.equal(root, subRoot): return True
+
+        def check_same(p, q):
+            if (not p) and (not q): return True
+            if (not p) or (not q) or p.val != q.val: return False
+            return check_same(p.left, q.left) and check_same(p.right, q.right)
+        
+        if check_same(root, subRoot): return True
         return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+        
