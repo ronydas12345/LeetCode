@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorderTraversal(self, root: TreeNode | None) -> list[int]:
+    """def inorderTraversal(self, root: TreeNode | None) -> list[int]:
         res = []
 
         def rec(root):
@@ -15,4 +15,19 @@ class Solution:
             rec(root.right)
         
         rec(root)
+        return res"""
+    
+    def inorderTraversal(self, root: TreeNode | None) -> list[int]:
+        s, res = [], []
+        c = root
+
+        while s or c:
+            while c:
+                s.append(c)
+                c = c.left
+
+            temp = s.pop()
+            res.append(temp.val)
+            c = temp.right
+        
         return res
