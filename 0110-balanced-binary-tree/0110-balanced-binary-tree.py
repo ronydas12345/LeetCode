@@ -5,15 +5,18 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def search(node):
-            if not node: return (True, 0)
-        
-            left_balance, left_ht = search(node.left)
-            right_balance, right_ht = search(node.right)
+    def isBalanced(self, root: TreeNode | None) -> bool:
+        def check_root(root):
+            if not root: return 0
 
-            balance = left_balance and right_balance and abs(left_ht - right_ht) <= 1
+            l_ht = check_root(root.left)
+            if l_ht <= -1: return -1
 
-            return (balance, 1 + max(left_ht, right_ht))
-        
-        return search(root)[0]
+            r_ht = check_root(root.right)
+            if r_ht <= -1: return -1
+
+            if abs(l_ht - r_ht) > 1: return -1
+
+            return max(l_ht, r_ht) + 1
+
+        return check_root(root) != -1
